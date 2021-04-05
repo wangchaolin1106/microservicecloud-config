@@ -5,10 +5,8 @@ spring:
 ---
 spring:
   profiles: dev
-
 server:
   port: 7001
-
 eureka:
   instance:
     hostname: localhost #eureka服务端的实例名称
